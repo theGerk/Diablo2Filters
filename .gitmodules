@@ -1,0 +1,6 @@
+[submodule "PD2/Squeezy102Filter"]
+	path = PD2/Squeezy102Filter
+	url = git@github.com:theGerk/projectdiablo2itemfilter
+[submodule "PD2/Kryszards"]
+	path = PD2/Kryszards
+	url = git@github.com:theGerk/Gerk-s-Kryszard-s-Project-Diablo-2-Filter
